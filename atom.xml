@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://charliestong.github.io/blog/</id>
-    <title>Gridea</title>
-    <updated>2020-04-13T13:29:48.786Z</updated>
+    <title>CharlieTONG&apos;s Blog</title>
+    <updated>2020-04-13T13:40:16.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://charliestong.github.io/blog/"/>
     <link rel="self" href="https://charliestong.github.io/blog/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>这个人反正很懒，什么都没留下......</subtitle>
     <logo>https://charliestong.github.io/blog/images/avatar.png</logo>
     <icon>https://charliestong.github.io/blog/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, CharlieTONG&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://charliestong.github.io/blog/post/hello-gridea/</id>
