@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://charliestong.github.io/blog/</id>
     <title>CharlieTONG&apos;s Blog</title>
-    <updated>2020-04-16T06:28:11.454Z</updated>
+    <updated>2020-04-16T06:50:23.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://charliestong.github.io/blog/"/>
     <link rel="self" href="https://charliestong.github.io/blog/atom.xml"/>
@@ -10,4 +10,18 @@
     <logo>https://charliestong.github.io/blog/images/avatar.png</logo>
     <icon>https://charliestong.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, CharlieTONG&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[推荐个你想拥有的P站同款图标]]></title>
+        <id>https://charliestong.github.io/blog/post/tui-jian-ge-ni-xiang-yong-you-de-p-zhan-tong-kuan-tu-biao/</id>
+        <link href="https://charliestong.github.io/blog/post/tui-jian-ge-ni-xiang-yong-you-de-p-zhan-tong-kuan-tu-biao/">
+        </link>
+        <updated>2020-04-16T06:33:09.000Z</updated>
+        <content type="html"><![CDATA[<p>这个网址：<br>
+<strong>https://logoly.pro/#/</strong><br>
+操作方便，提供多种形式。<br>
+成图如下：<img src="https://charliestong.github.io/blog//post-images/1587019089043.png" alt="" loading="lazy"><br>
+<img src="https://charliestong.github.io/blog//post-images/1587019096638.png" alt="" loading="lazy"><br>
+🙄🙄🙄</p>
+]]></content>
+    </entry>
 </feed>
